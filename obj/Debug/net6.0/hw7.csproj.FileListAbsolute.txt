@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\hw7\bin\Debug\net6.0\hw7.exe
+C:\Users\User\Desktop\Учеба\hw7\bin\Debug\net6.0\hw7.deps.json
+C:\Users\User\Desktop\Учеба\hw7\bin\Debug\net6.0\hw7.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\hw7\bin\Debug\net6.0\hw7.dll
+C:\Users\User\Desktop\Учеба\hw7\bin\Debug\net6.0\hw7.pdb
+C:\Users\User\Desktop\Учеба\hw7\obj\Debug\net6.0\hw7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\hw7\obj\Debug\net6.0\hw7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\hw7\obj\Debug\net6.0\hw7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\hw7\obj\Debug\net6.0\hw7.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\hw7\obj\Debug\net6.0\hw7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\hw7\obj\Debug\net6.0\hw7.dll
+C:\Users\User\Desktop\Учеба\hw7\obj\Debug\net6.0\refint\hw7.dll
+C:\Users\User\Desktop\Учеба\hw7\obj\Debug\net6.0\hw7.pdb
+C:\Users\User\Desktop\Учеба\hw7\obj\Debug\net6.0\hw7.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\hw7\obj\Debug\net6.0\ref\hw7.dll
